@@ -164,6 +164,7 @@ $defaults['legacyfiles'] = $CFG->legacyfilesinnewcourses;
 $defaults['groupmode'] = $courseconfig->groupmode;
 $defaults['groupmodeforce'] = $courseconfig->groupmodeforce;
 $defaults['visible'] = $courseconfig->visible;
+$defaults['numsections'] = $courseconfig->numsections;
 $defaults['lang'] =  $courseconfig->lang;
 
 // Course template.
